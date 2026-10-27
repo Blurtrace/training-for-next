@@ -152,6 +152,7 @@ src/
 
 ---
 
+
 ## 📚 Documentación adicional
 
 - `docs/modules/` – explica cada módulo generado por el Copilot (modelo de datos, backend, frontend, Docker, CI, etc.).
