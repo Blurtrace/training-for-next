@@ -1,0 +1,3 @@
+- DON'T TRUTH THIS FILE
+- cp C:\Users\elkin\awesome-design-md/design-md/apple/DESIGN.md ./DESIGN.md
+- https://www.tododeia.com/community/awesome-design-md
